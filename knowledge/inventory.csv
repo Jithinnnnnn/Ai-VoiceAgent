@@ -1,0 +1,15 @@
+company,model,variant,fuel,price_lakh,in_stock,discount_lakh,offer
+Toyota,Fortuner,Legender,Diesel,46.5,3,1.0,Free 5 year extended warranty
+Toyota,Innova Hycross,ZX,Hybrid,30.5,5,0.5,
+Toyota,Glanza,V,Petrol,9.5,8,0.4,Free accessories worth 15000 rupees
+Hyundai,Creta,SX,Petrol,16.5,6,0.6,Exchange bonus of 25000 rupees
+Hyundai,Creta,SX Opt,Diesel,19.5,2,0.5,
+Hyundai,Venue,S Plus,Petrol,9.8,10,0.3,
+Hyundai,Verna,SX,Petrol,14.5,0,0,Next batch expected in 3 weeks
+Tata Motors,Nexon,Fearless,Diesel,13.5,7,0.5,Free first year insurance
+Tata Motors,Punch,Adventure,Petrol,7.8,12,0.25,
+Tata Motors,Harrier,Adventure Plus,Diesel,18.5,4,0.7,
+Maruti Suzuki,Swift,ZXi,Petrol,8.2,15,0.3,
+Maruti Suzuki,Brezza,ZXi,Petrol,11.8,9,0.35,
+Maruti Suzuki,Grand Vitara,Zeta,Hybrid,17.5,3,0.45,
+Maruti Suzuki,Ertiga,VXi CNG,CNG,11.2,1,0,Last unit available
